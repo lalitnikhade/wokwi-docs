@@ -1,4 +1,4 @@
----
+--
 title: Configuring Your Project (wokwi.toml)
 sidebar_label: Project Config
 ---
